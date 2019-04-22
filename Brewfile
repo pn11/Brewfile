@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew fish
+brew gdbm
 brew gettext
 brew git
 brew libevent
@@ -10,24 +11,37 @@ brew mas
 brew ncurses
 brew openssl
 brew pcre2
+brew readline
 brew reattach-to-user-namespace
 brew rmtrash
+brew sqlite
 brew tmux
+brew xz
 
 tap homebrew/cask
 cask day-o
-cask iterm2
-cask skim
+cask docker
+cask hyperswitch
+cask karabiner-elements
+cask pycharm-ce
+cask sizeup
+cask skitch
 
 tap argon/mas
 
 tap rcmdnk/file
 brew brew-file
 
+# Other Homebrew packages
+brew python3
+
 # Other Cask applications
-cask hyperswitch
+cask db-browser-for-sqlite
+cask drawio
+cask iterm2
+cask open-in-code
 cask simplenote
-cask skitch
+cask skim
 
 # App Store applications
 appstore 451732904  (1.0)
