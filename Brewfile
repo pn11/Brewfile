@@ -19,13 +19,13 @@ brew tmux
 brew xz
 
 tap homebrew/cask
-cask day-o
-cask docker
-cask hyperswitch
-cask karabiner-elements
-cask pycharm-ce
-cask sizeup
-cask skitch
+cask dash
+cask db-browser-for-sqlite
+cask drawio
+cask iterm2
+cask open-in-code
+cask simplenote
+cask skim
 
 tap argon/mas
 
@@ -36,12 +36,13 @@ brew brew-file
 brew python3
 
 # Other Cask applications
-cask db-browser-for-sqlite
-cask drawio
-cask iterm2
-cask open-in-code
-cask simplenote
-cask skim
+cask day-o
+cask docker
+cask hyperswitch
+cask karabiner-elements
+cask pycharm-ce
+cask sizeup
+cask skitch
 
 # App Store applications
 appstore 451732904  (1.0)
