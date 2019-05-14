@@ -11,6 +11,7 @@ brew mas
 brew ncurses
 brew openssl
 brew pcre2
+brew python
 brew readline
 brew reattach-to-user-namespace
 brew rmtrash
@@ -32,9 +33,6 @@ tap argon/mas
 tap rcmdnk/file
 brew brew-file
 
-# Other Homebrew packages
-brew python3
-
 # Other Cask applications
 cask day-o
 cask docker
@@ -51,15 +49,16 @@ appstore 529580720  (1.2)
 appstore 445770608  (1.2.2)
 appstore 581915465  (1.2.7)
 appstore 627505674  (1.3.2)
-appstore 928871589  (1.5)
+appstore 928871589  (1.6.2)
 appstore 645427315  (1.8.4)
 appstore 595191960  (1.9.2)
 appstore 408981434  (10.1.11)
-appstore 543896183  (10.11)
+appstore 543896183  (10.13.3)
 appstore 404764921  (12.15)
 appstore 511648940  (2.4)
-appstore 803453959  (3.3.8)
+appstore 803453959  (3.4.0)
+appstore 410628904  (3.4.10)
 appstore 409183694  (5.3)
-appstore 409201541  (5.6.2)
+appstore 409201541  (8.0)
 appstore 409183694  (9.0.1)
 appstore 408981381  (9.6.1)
