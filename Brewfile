@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew bash
 brew fish
 brew gdbm
 brew gettext
@@ -57,8 +58,8 @@ appstore 543896183  (10.13.3)
 appstore 404764921  (12.15)
 appstore 511648940  (2.4)
 appstore 803453959  (3.4.0)
-appstore 410628904  (3.4.10)
+appstore 410628904  (3.4.11)
 appstore 409183694  (5.3)
 appstore 409201541  (8.0)
-appstore 409183694  (9.0.1)
+appstore 409183694  (9.0.2)
 appstore 408981381  (9.6.1)
