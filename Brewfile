@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew bash
+brew bash-completion@2
 brew fish
 brew gdbm
 brew gettext
